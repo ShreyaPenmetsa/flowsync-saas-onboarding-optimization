@@ -9,11 +9,15 @@ New users signing up for a SaaS product were dropping off before reaching activa
 - Built user personas to represent key user segments
 - Gathered requirements and wrote user stories for a redesigned onboarding flow
 - Created wireframes for the proposed experience
+- Analyzed the onboarding funnel using SQL and Python to identify drop-off points
+- Built a Tableau dashboard to visualize activation and retention trends
 - Defined KPIs to measure activation and retention impact
 
 ## Outcome
-Delivered a set of KPI recommendations (activation rate, time-to-first-value, retention at day 7/30) and a redesigned onboarding flow to support product decision-making.
+Out of 750 users, ~51% completed onboarding, with the largest drop-off occurring mid-funnel (workspace setup and team invitations). Delivered KPI recommendations and product improvements to close that gap and improve Day 7–30 retention.
 
 ## Skills Demonstrated
-Product Analysis · Business Analysis · User Research · Customer Journey Mapping · User Personas · Requirements Gathering · User Stories · KPI Definition · Product Strategy
+Product Analysis · Business Analysis · User Research · Customer Journey Mapping · User Personas · Requirements Gathering · User Stories · Wireframing · SQL · Python · Dashboard Design (Tableau) · KPI Definition · Product Strategy
+<img width="2426" height="1296" alt="IMG_0484" src="https://github.com/user-attachments/assets/3d0b72c7-4ce2-4c8b-96da-e9a71cb3fd4a" />
+
 
