@@ -18,6 +18,8 @@ Out of 750 users, ~51% completed onboarding, with the largest drop-off occurring
 
 ## Skills Demonstrated
 Product Analysis · Business Analysis · User Research · Customer Journey Mapping · User Personas · Requirements Gathering · User Stories · Wireframing · SQL · Python · Dashboard Design (Tableau) · KPI Definition · Product Strategy
+
+https://public.tableau.com/app/profile/shreya.penmetsa/viz/FlowSyncSaaSUserOnboardingAnalyticsDashboard/FlowSyncSaaSUserOnboardingAnalyticsDashboard
 <img width="2426" height="1296" alt="IMG_0484" src="https://github.com/user-attachments/assets/3d0b72c7-4ce2-4c8b-96da-e9a71cb3fd4a" />
 
 
